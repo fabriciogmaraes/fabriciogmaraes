@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou [Seu Nome]  
 
-<!--
-**fabriciogmaraes/fabriciogmaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Sobre mim:**  
+- 💼 Trabalho como Analista de Dados na Alares Internet.  
+- 📚 Estudando Análise e Desenvolvimento de Sistemas, com uma atenção mais voltada em Desenvolvimento Web como Front End.  
+- 🚀 Interessado em aprender cada vez mais.  
 
-Here are some ideas to get you started:
+🛠️ **Minhas habilidades técnicas:**  
+- Python, Power BI, Excel, SQL e atualmente estudando HTML, CSS e JS. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **Estatísticas do GitHub**  
+![Seus stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+
+🌐 **Onde me encontrar:**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciogmaraes)  
+- 📧 E-mail: fabriciogmaraes@hotmail.com
