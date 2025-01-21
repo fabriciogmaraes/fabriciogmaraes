@@ -9,7 +9,7 @@
 - Python, Power BI, Excel, SQL e atualmente estudando HTML, CSS e JS. 
 
 📈 **Estatísticas do GitHub**  
-![Seus stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabriciogmaraes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 🌐 **Onde me encontrar:**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabriciogmaraes)  
