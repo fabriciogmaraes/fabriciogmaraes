@@ -1,29 +1,72 @@
-# 👋 Olá! Eu sou Fabricio Guimarães // Hello! I'm Fabricio Guimarães
+## 👋 Hello! I'm Fabricio Guimarães
+<br>
+<h3> 🎯 About me:  </h3>
 
-🎯 **Sobre mim:** // **About me:**  
-- 💼 Trabalho como Analista de Dados na Alares Internet.
-- // I work as a Data Analyst at Alares Internet.  
-- 📚 Estudando Análise e Desenvolvimento de Sistemas, com uma atenção mais voltada em Desenvolvimento Web como Front End.
-- // Studying Systems Analysis and Development, with a focus on Web Development as a Front-End Developer.  
-- 🚀 Interessado em aprender cada vez mais.
-- // Always eager to learn more.  
+I am 25 years old and have worked as a data analyst for 2 years
+at Alares and am a Systems Analysis and Development student, focusing on Front End Development.
+I use `Power BI`, `SQL`, `Excel` and a little `Python` every day in my work. And during my studies, I have
+focused on learning Front End Development, using HTML and CSS daily for now.
+
+I'm very interested in learning about `HTML` and `CSS`,
+as well as `JavaScropt`, `React` and `Angular`.
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciogmaraes&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons"
+      alt="Most used languages in my repositories"
+      height="200em"/>
+  </a>
+  <h3> 📫 Contact </h3>
+
+  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:fabriciogmaraes@hotmail.com)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/fabriciogmaraes/?locale=en_US)
+
+</div>
+<br>
+
+## 📚 Skills
+
+- ### Languages
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+
+- ### Tools
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+[![Vscode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/)
+
+## 📁 Github Status
+
+
+<div align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=fabriciogmaraes&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      alt="Profile statistics"
+      height="160em"/></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img
+      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=fabriciogmaraes&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      alt="Github streak"
+      height="160em"/></a>
 
 
 
-🛠️ **Minhas habilidades técnicas:** // **My technical skills:**  
-- Python, Power BI, Excel, SQL e atualmente estudando HTML, CSS e JS.
-- // Python, Power BI, Excel, SQL, and currently studying HTML, CSS, and JS.  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 
-
-
-📈 **Estatísticas do GitHub** // **GitHub Statistics**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fabriciogmaraes&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fabriciogmaraes&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)  
-
-
-
-🌐 **Contatos:** // **Contacts:**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabriciogmaraes)  
-- 📧 E-mail: fabriciogmaraes@hotmail.com  
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/fabriciogmaraes/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
