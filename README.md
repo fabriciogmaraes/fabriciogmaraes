@@ -8,7 +8,7 @@ I use `Power BI`, `SQL`, `Excel` and a little `Python` every day in my work. And
 focused on learning Front End Development, using HTML and CSS daily for now.
 
 I'm very interested in learning about `HTML` and `CSS`,
-as well as `JavaScropt`, `React` and `Angular`.
+as well as `JavaScript`, `React` and `Angular`.
 <br>
 <br>
 <div align="center">
@@ -32,7 +32,9 @@ as well as `JavaScropt`, `React` and `Angular`.
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=javascript)]([https://vscode.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+
 
 - ### Tools
 
