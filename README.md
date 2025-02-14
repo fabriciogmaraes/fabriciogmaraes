@@ -7,8 +7,8 @@ at Alares and am a Systems Analysis and Development student, focusing on Front E
 I use `Power BI`, `SQL`, `Excel` and a little `Python` every day in my work. And during my studies, I have
 focused on learning Front End Development, using HTML and CSS daily for now.
 
-I'm very interested in learning about `HTML` and `CSS`,
-as well as `JavaScript`, `React` and `Angular`.
+I'm very interested in learning about `HTML`, `CSS` and `JavaScript`,
+as well as `React` and `Angular`.
 <br>
 <br>
 <div align="center">
