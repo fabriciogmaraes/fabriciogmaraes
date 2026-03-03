@@ -1,74 +1,63 @@
-## 👋 Hello! I'm Fabricio Guimarães
-<br>
-<h3> 🎯 About me:  </h3>
+# Hello, my name is Fabricio! 👋
 
-I am 25 years old and have worked as a data analyst for 2 years
-at Alares and am a Systems Analysis and Development student, focusing on Front End Development.
-I use `Power BI`, `SQL`, `Excel` and a little `Python` every day in my work. And during my studies, I have
-focused on learning Front End Development, using HTML and CSS daily for now.
+### Data Analyst | MSc Student in Computational Intelligence (UFRN) | Analytics Engineer
 
-I'm very interested in learning about `HTML`, `CSS` and `JavaScript`,
-as well as `React` and `Angular`.
-<br>
-<br>
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciogmaraes&layout=compact&langs_count=10&text_color=ffffff&theme=react&hide_border=true&show_icons"
-      alt="Most used languages in my repositories"
-      height="200em"/>
+I am a Senior-level Data Professional and a **Master's Candidate in Information Technology** at UFRN. With over 3 years of experience, I specialize in transforming complex data into high-impact business strategies using AI, advanced modeling, and automation.
+
+---
+
+### 🛠️ Technologies I use in my daily life
+
+<div align="left">
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
+  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/sql-9.png">
+  <img align="center" alt="Power-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
+  <img align="center" alt="Automate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png?raw=true">
+</div>
+
+---
+
+### 📊 Professional Experience
+
+**Mid-level Data Analyst - Alares Internet (July 2024 - Present)**
+* Leading data strategy and national headcount control for the Call Center operations across Brazil.
+* Developed a high-performance Power BI ecosystem for critical KPIs (Service Level, Absenteeism, and Productivity).
+* Automated monthly organizational workflows using **Python**, reducing manual errors and saving dozens of hours for management.
+* Optimized database integration and modeling via SQL and Python to ensure a "Single Source of Truth".
+
+**Data Analyst - Alares Internet (August 2023 - July 2024)**
+* **Project Lead** for network decommissioning (HFC/Radio), coordinating cross-functional teams (CX, Assets, and Network).
+* Developed a comprehensive **Annual Purchase Forecast** for Supply Chain (ONTs/Routers), optimizing inventory and cash flow.
+* Improved data usability and complex modeling using SQL for strategic decision-making in the Supply Chain department.
+
+**Data & BI Analyst - Alares Internet (January 2023 - August 2023)**
+* Created strategic dashboards for field technician productivity and technical support performance.
+* Implemented automated ETL pipelines connecting SharePoint, Google Sheets, and Excel to central databases.
+
+**Technical Administrative Assistant - Cabo Telecom (March 2018 - January 2023)**
+* Provided specialized technical support for HFC and FTTH infrastructure teams.
+* Analyzed contractor productivity and managed technical order distribution to optimize field operations.
+
+---
+
+### 🎓 Education & Research
+
+* **M.Sc. in Information Technology (Computational Intelligence)** - UFRN (*In progress*)
+* **Postgraduate in Data Science** - Faculdade Descomplica
+* **B.S. in Systems Analysis and Development** - Faculdade Descomplica
+
+---
+
+### 🌐 Social Media and Contact
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fabriciogmaraes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <h3> 📫 Contact </h3>
-
-  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:fabriciogmaraes@hotmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/fabriciogmaraes/?locale=en_US)
-
+  <a href="mailto:fabriciogmaraes@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
-<br>
-
-## 📚 Skills
-
-- ### Languages
-
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://skillicons.dev/icons?i=javascript)]([https://vscode.dev/](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript))
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
-
-
-- ### Tools
-
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![Vscode](https://skillicons.dev/icons?i=vscode)](https://vscode.dev/)
-
-## 📁 Github Status
-
-
-<div align='center'>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=fabriciogmaraes&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
-      alt="Profile statistics"
-      height="160em"/></a>
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img
-      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=fabriciogmaraes&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
-      alt="Github streak"
-      height="160em"/></a>
-
-
-
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/fabriciogmaraes/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
