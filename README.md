@@ -1,63 +1,65 @@
-# Hello, my name is Fabricio! 👋
+# Hi, I'm Fabricio Guimarães
 
-### Data Analyst | MSc Student in Computational Intelligence (UFRN) | Analytics Engineer
-
-I am a Senior-level Data Professional and a **Master's Candidate in Information Technology** at UFRN. With over 3 years of experience, I specialize in transforming complex data into high-impact business strategies using AI, advanced modeling, and automation.
-
----
-
-### 🛠️ Technologies I use in my daily life
-
-<div align="left">
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Anaconda" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
-  <img align="center" alt="Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://icons.veryicon.com/png/o/file-type/file-type-icon-library/sql-9.png">
-  <img align="center" alt="Power-BI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg">
-  <img align="center" alt="Automate" height="30" width="40" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-Automate-Colored.png?raw=true">
-</div>
+**Data Analyst · MSc Student in Computational Intelligence (PPgTI/UFRN)**  
+Mid-level data professional with 3+ years of experience transforming complex data into high-impact business decisions using AI, advanced modeling, and automation.
 
 ---
 
-### 📊 Professional Experience
+## 🛠️ Stack
 
-**Mid-level Data Analyst - Alares Internet (July 2024 - Present)**
-* Leading data strategy and national headcount control for the Call Center operations across Brazil.
-* Developed a high-performance Power BI ecosystem for critical KPIs (Service Level, Absenteeism, and Productivity).
-* Automated monthly organizational workflows using **Python**, reducing manual errors and saving dozens of hours for management.
-* Optimized database integration and modeling via SQL and Python to ensure a "Single Source of Truth".
-
-**Data Analyst - Alares Internet (August 2023 - July 2024)**
-* **Project Lead** for network decommissioning (HFC/Radio), coordinating cross-functional teams (CX, Assets, and Network).
-* Developed a comprehensive **Annual Purchase Forecast** for Supply Chain (ONTs/Routers), optimizing inventory and cash flow.
-* Improved data usability and complex modeling using SQL for strategic decision-making in the Supply Chain department.
-
-**Data & BI Analyst - Alares Internet (January 2023 - August 2023)**
-* Created strategic dashboards for field technician productivity and technical support performance.
-* Implemented automated ETL pipelines connecting SharePoint, Google Sheets, and Excel to central databases.
-
-**Technical Administrative Assistant - Cabo Telecom (March 2018 - January 2023)**
-* Provided specialized technical support for HFC and FTTH infrastructure teams.
-* Analyzed contractor productivity and managed technical order distribution to optimize field operations.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 ---
 
-### 🎓 Education & Research
+## 🚀 Featured Projects
 
-* **M.Sc. in Information Technology (Computational Intelligence)** - UFRN (*In progress*)
-* **Postgraduate in Data Science** - Faculdade Descomplica
-* **B.S. in Systems Analysis and Development** - Faculdade Descomplica
+### 🔬 Data Science & Analytics
+
+| Project | Description | Stack |
+|---|---|---|
+| [JurisData Analytics](https://github.com/fabriciogmaraes/jurisdata-analytics) 🚧 | Labor litigation pipeline with NLP, clustering and LLM applied to 40k+ real decisions from TRT-21/RN | Python · PostgreSQL · spaCy · Gemini API |
+| [PecuárIA](https://github.com/fabriciogmaraes/pecuaria-precision-analytics) | Precision livestock analytics: ETL, relational modeling, K-Means clustering and Prophet forecasting (R$ 59k potential savings) | Python · PostgreSQL · Power BI · Prophet |
+| [SUS-RN Clustering](https://github.com/fabriciogmaraes/clusterizacao-sus-rn) | Comparative clustering (K-Means, Hierarchical, GMM) of 6,910 public health facilities in Rio Grande do Norte | Python · scikit-learn · CNES/OpenDataSUS |
+| [Brasileirão Analytics](https://github.com/fabriciogmaraes/brasileirao-analytics) | Real-time performance metrics and visualizations for Brasileirão Série A 2026 via football-data.org API | Python · Pandas · Matplotlib |
+
+### 🛠️ Software Engineering
+
+| Project | Description | Stack |
+|---|---|---|
+| [Juntaê](https://github.com/jamlemoos/juntae-project) | Platform to connect people, skills and projects — team formation for hackathons, MVPs and academic initiatives | Go · Gin · PostgreSQL · React · TypeScript |
+| [Smart Repasse](https://github.com/fabriciogmaraes/smart-repasse) | Vehicle resale API with dual-database architecture, audit logging and FIPE opportunity engine | Java · Spring Boot · JPA · H2 |
 
 ---
 
-### 🌐 Social Media and Contact
+## 💼 Experience
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/fabriciogmaraes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:fabriciogmaraes@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+**Mid-level Data Analyst — Alares Internet** *(Jul 2024 – Present)*  
+Leading data strategy and national headcount control for Call Center operations across Brazil. Built Power BI ecosystem for critical KPIs (Service Level, Absenteeism, Productivity). Automated monthly workflows with Python, saving dozens of hours for management.
+
+**Data Analyst — Alares Internet** *(Aug 2023 – Jul 2024)*  
+Project lead for HFC/Radio network decommissioning. Developed Annual Purchase Forecast for Supply Chain (ONTs/Routers), optimizing inventory and cash flow.
+
+**Data & BI Analyst — Alares Internet** *(Jan 2023 – Aug 2023)*  
+Strategic dashboards for field technician productivity. Automated ETL pipelines connecting SharePoint, Google Sheets and Excel to central databases.
+
+---
+
+## 🎓 Education
+
+- **M.Sc. Information Technology (Computational Intelligence)** — UFRN *(in progress)*
+- **Postgraduate in Data Science** — Faculdade Descomplica
+- **B.S. Systems Analysis and Development** — Faculdade Descomplica
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabriciogmaraes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:fabriciogmaraes@hotmail.com)
