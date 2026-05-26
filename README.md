@@ -24,7 +24,7 @@ Mid-level data professional with 3+ years of experience transforming complex dat
 
 | Project | Description | Stack |
 |---|---|---|
-| [JurisData Analytics](https://github.com/fabriciogmaraes/jurisdata-analytics) 🚧 | Labor litigation pipeline with NLP, clustering and LLM applied to 40k+ real decisions from TRT-21/RN | Python · PostgreSQL · spaCy · Gemini API |
+| [JurisData Analytics](https://github.com/fabriciogmaraes/jurisdata-analytics) | Labor litigation pipeline with NLP, clustering and LLM applied to 40k+ real decisions from TRT-21/RN | Python · PostgreSQL · spaCy · Gemini API |
 | [PecuárIA](https://github.com/fabriciogmaraes/pecuaria-precision-analytics) | Precision livestock analytics: ETL, relational modeling, K-Means clustering and Prophet forecasting (R$ 59k potential savings) | Python · PostgreSQL · Power BI · Prophet |
 | [SUS-RN Clustering](https://github.com/fabriciogmaraes/clusterizacao-sus-rn) | Comparative clustering (K-Means, Hierarchical, GMM) of 6,910 public health facilities in Rio Grande do Norte | Python · scikit-learn · CNES/OpenDataSUS |
 | [Brasileirão Analytics](https://github.com/fabriciogmaraes/brasileirao-analytics) | Real-time performance metrics and visualizations for Brasileirão Série A 2026 via football-data.org API | Python · Pandas · Matplotlib |
