@@ -15,6 +15,8 @@ Mid-level data professional with 3+ years of experience transforming complex dat
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
 ---
 
@@ -28,6 +30,7 @@ Mid-level data professional with 3+ years of experience transforming complex dat
 | [PecuárIA](https://github.com/fabriciogmaraes/pecuaria-precision-analytics) | Precision livestock analytics: ETL, relational modeling, K-Means clustering and Prophet forecasting (R$ 59k potential savings) | Python · PostgreSQL · Power BI · Prophet |
 | [SUS-RN Clustering](https://github.com/fabriciogmaraes/clusterizacao-sus-rn) | Comparative clustering (K-Means, Hierarchical, GMM) of 6,910 public health facilities in Rio Grande do Norte | Python · scikit-learn · CNES/OpenDataSUS |
 | [Brasileirão Analytics](https://github.com/fabriciogmaraes/brasileirao-analytics) | Real-time performance metrics and visualizations for Brasileirão Série A 2026 via football-data.org API | Python · Pandas · Matplotlib |
+| [Churn Lakehouse Analytics](https://github.com/fabriciogmaraes/churn-lakehouse-analytics) | End-to-end lakehouse pipeline (Bronze → Silver → Gold) with dimensional modeling and executive Power BI dashboard for telecom churn analysis | Databricks · PySpark · Delta Lake · Power BI · DAX |
 
 ### 🛠️ Software Engineering
 
