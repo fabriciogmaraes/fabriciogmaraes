@@ -57,7 +57,6 @@ Strategic dashboards for field technician productivity. Automated ETL pipelines 
 ## 🎓 Education
 
 - **M.Sc. Information Technology (Computational Intelligence)** — UFRN *(in progress)*
-- **Postgraduate in Data Science** — Faculdade Descomplica
 - **B.S. Systems Analysis and Development** — Faculdade Descomplica
 
 ---
